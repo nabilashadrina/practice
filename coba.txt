@@ -1,0 +1,4 @@
+Coba github
+- belajar git dan github
+- belajar bahasa c#
+- belajar ASP.Net
